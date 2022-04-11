@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+    background-color: black;
+}
+h1 {
+    margin-top: 300px;
+    color: white;
+}
+
+img {
+    margin-top:-200px;
+    margin-left: 40px;
+}
+
+h1 {
+    font-family: Roboto;
+}
